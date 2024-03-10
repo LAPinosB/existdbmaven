@@ -15,3 +15,7 @@ In case you get an error, exist allows us to test the query you want to make in 
 
 For my current project I have used the empleados.xml
 ![image](https://github.com/LAPinosB/existdbmaven/assets/149178337/21c1157f-18d5-42c1-8681-bd48a09224f6)
+
+Show functionality, code in application: 
+   First,i need only receive the text of the results, not labels:
+![image](https://github.com/LAPinosB/existdbmaven/issues/1#issuecomment-1987168412)
