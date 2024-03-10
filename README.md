@@ -18,4 +18,5 @@ For my current project I have used the empleados.xml
 
 Show functionality, code in application: 
    First,i need only receive the text of the results, not labels:
-![image](https://github.com/LAPinosB/existdbmaven/issues/1#issuecomment-1987168412)
+![image](https://github.com/LAPinosB/existdbmaven/assets/149178337/b3a1f308-5308-406c-9295-bf6bafd54e66)
+![image](https://github.com/LAPinosB/existdbmaven/assets/149178337/cec347ca-ef22-4230-a403-e32e85d6c66b)
